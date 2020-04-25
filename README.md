@@ -7,7 +7,10 @@ Helper helps you to transform data to readable strings as normal Barcode scanner
 
 This helper is using node-usb https://github.com/tessel/node-usb package and you can install it by using npm 
 
-    npm install usb
+# Installation
+Run npm install which should install needed libraries and dependecies. 
+
+    npm install
 
 # Windows compatibility
 
